@@ -1,0 +1,1 @@
+export const testConsole = () => console.log("^_^ Is work? 0_0 Yes!!!")
